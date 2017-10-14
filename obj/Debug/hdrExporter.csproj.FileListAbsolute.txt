@@ -1,0 +1,19 @@
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\bin\Debug\hdrExporter.exe.config
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\bin\Debug\hdrExporter.exe
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\bin\Debug\hdrExporter.pdb
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.csprojResolveAssemblyReference.cache
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.Form1.resources
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.Properties.Resources.resources
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.csproj.GenerateResource.Cache
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.exe
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.pdb
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\bin\Debug\hdrExporter.exe.config
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\bin\Debug\hdrExporter.exe
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\bin\Debug\hdrExporter.pdb
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\obj\Debug\hdrExporter.csprojResolveAssemblyReference.cache
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\obj\Debug\hdrExporter.Form1.resources
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\obj\Debug\hdrExporter.Properties.Resources.resources
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\obj\Debug\hdrExporter.csproj.GenerateResource.Cache
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\obj\Debug\hdrExporter.csproj.CoreCompileInputs.cache
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\obj\Debug\hdrExporter.exe
+C:\Users\TheThyke\Downloads\HdrExporter-master\HdrExporter-master\hdrExporter\obj\Debug\hdrExporter.pdb
